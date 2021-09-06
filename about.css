@@ -1,0 +1,18 @@
+section.sec_one_2
+{
+	border: 1px solid black;
+	width: 1267px;
+	height: 2476px;
+ }
+ 
+div.about_info
+{
+	border: 1px solid red;
+	width: 950px;
+	margin-left:40px;
+}
+div.color_gray
+{
+	color: gray;
+	margin-right: 200px;
+}

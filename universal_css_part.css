@@ -1,0 +1,58 @@
+ div.top_link
+ {
+	 background-color: black;
+ }
+ a
+ {
+	color: red;
+	
+ }
+ a.top_link
+ {
+	 background-color: gray;
+	 border: 2px solid blue;
+	 width:60px;
+	 padding: 16px;
+	 text-decoration: none;
+	 float: right;
+ }
+  a.active, a.top_link:hover
+ {
+	 background-color: Green;
+	 color: white;
+ }
+
+ img.top_image
+ {
+	 width:100%;
+	 height: 100px;
+ }
+ div.sec_one
+ {
+	 display: felx;
+ }
+ a.middle_link
+ {
+	 background-color: gray;
+	 border: 2px solid blue;
+	 width:50px;
+	 padding: 16px;
+	 text-decoration: none;
+	 float: right;
+ }
+ a.active,a.middle_link:hover
+ {
+	 background-color: Green;
+	 color: white;
+ }
+ section.sec_one_2
+ {
+	border: 1px solid black;
+	width: 1267px;
+	height: 490px;
+ }
+ div.title
+ {
+	 font-size: 30px;
+	 margin-left: 20px;
+ }
